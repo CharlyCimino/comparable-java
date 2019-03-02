@@ -9,9 +9,6 @@ import java.util.Collections;
  */
 public class Principal {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         // Genero lista de alumnos
         ArrayList<Alumno> alumnos = new ArrayList<>();
@@ -33,7 +30,5 @@ public class Principal {
         System.out.println("\nListado de autos original: ");
         System.out.println(autos);
         // Collections.sort(autos); NO COMPILA
-        
     }
-    
 }
