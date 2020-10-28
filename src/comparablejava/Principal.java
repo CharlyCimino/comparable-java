@@ -15,8 +15,8 @@ public class Principal {
         ArrayList<Alumno> alumnos = new ArrayList<>();
         alumnos.add( new Alumno("Juan","Fulano",9) );
         alumnos.add( new Alumno("Pedro","Mengano",7) );
-        alumnos.add( new Alumno("Luis","Sultano",8) );
-        alumnos.add( new Alumno("Luis","Sultano",6) );
+        alumnos.add( new Alumno("Ana","Merez",8) );
+        alumnos.add( new Alumno("Maria","Perez",6) );
         alumnos.add( new Alumno("Luis","Sultano",8) );
         
         // Genero lista de autos
